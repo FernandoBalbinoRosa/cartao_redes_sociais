@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+#{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: rgb(63, 62, 62);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    width: 500px;
+    height: 500px;
+    background-color:rgb(117, 29, 29);
+    display: block;
+    margin: auto;
+}
+
+h1, h2{
+    text-align: center;
+}
+
+.perfil{
+    display: block;
+    margin: auto;
+}
+
+p{
+    text-indent: 4px;
+}
+
+p.back.page {
+    text-align: center;
+}
+   
+.social-link{
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+}
